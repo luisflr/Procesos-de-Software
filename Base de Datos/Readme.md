@@ -1,6 +1,8 @@
  # Base de Datos
  
-Creación de la Base de Datos: Para la creación de la Base de Datos se tomó en cuenta el programa Oracle, más específicamente el entorno de desarrollo “Oracle Developer” en donde se crearon las entidades necesarias, para poder manejar una vidriería. En esta base de datos podremos encontrar las siguientes entidades
+## Creación de la Base de Datos: 
+
+Para la creación de la Base de Datos se tomó en cuenta el programa Oracle, más específicamente el entorno de desarrollo “Oracle Developer” en donde se crearon las entidades necesarias, para poder manejar una vidriería. En esta base de datos podremos encontrar las siguientes entidades
 * Administrador: Esta es una entidad relacionada solo con la funcionalidad de logeo, es decir, las personas registradas en esta entidad     serán las únicas que podrán ingresar a la aplicación móvil.
 * Clientes: En esta entidad se registra todos los clientes con sus respectivos datos: “Código de cliente, nombre, apellido, teléfono,       dirección, etc.”
 * Departamentos: En esta entidad se registran todos los departamentos que pertenecen a la empresa “Ventas, Administración, Almacén,         etc.”
@@ -15,8 +17,8 @@ Después de esto tenemos lo que son los procedimientos almacenados, que nos sirv
 
 Tenemos los procedimientos.
 
-*	Actualizar proveedor.
-*	Cant_emp: para poder ver la cantidad de empleados por un determinado departamento.
+-	Actualizar proveedor.
+-	Cant_emp: para poder ver la cantidad de empleados por un determinado departamento.
 *	Consulta_cli: para poder consultar a la Base de Datos sobre un determinado cliente ingresando el id del mismo.
 *	Consulta_emp: de la misma forma que el cliente se consulta un empleado ingresando su id.
 *	Consulta_nom: con este procedimiento, podemos consultar un empleado ingresando su nombre.
