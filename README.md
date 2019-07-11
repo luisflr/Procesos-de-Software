@@ -8,4 +8,9 @@ Para poder crear esta aplicación, se realizaron los siguientes pasos:
 * Creación de una web service.
 * Creación de una aplicación móvil.
 
+Para este proyecto utilice una base de datos en Oracle, Visual Studio para la creación del web service y como programa final Android Studio para crear la aplicacion movil.
 
+
+### Video para mostrar la funcionalidad de la aplicación
+
+https://drive.google.com/drive/folders/1bSc6uiPGu5061c7E682fuTvhP-JisaIS
