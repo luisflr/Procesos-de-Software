@@ -17,15 +17,15 @@ Después de esto tenemos lo que son los procedimientos almacenados, que nos sirv
 
 Tenemos los procedimientos.
 
--	Actualizar proveedor.
--	Cant_emp: para poder ver la cantidad de empleados por un determinado departamento.
-*	Consulta_cli: para poder consultar a la Base de Datos sobre un determinado cliente ingresando el id del mismo.
-*	Consulta_emp: de la misma forma que el cliente se consulta un empleado ingresando su id.
-*	Consulta_nom: con este procedimiento, podemos consultar un empleado ingresando su nombre.
-*	Insert1: este procedimiento nos permite insertar un nuevo producto.
-*	Eliminar_producto: este procedimiento nos permite eliminar un producto ingresando su id.
-*	Actualizar_producto: Este procedimiento nos permite actualizar el precio de un determinado producto.
-*	Insert_cliente: este procedimiento nos permite ingresar un nuevo cliente.
-*	Pr_login: este procedimiento nos verificara si es que el usuario y contraseña ingresados existen en la tabla “Administrador”, y de       acuerdo a ello nos retornara el valor de 1 o null.
+ -	Actualizar proveedor.
+ -	Cant_emp: para poder ver la cantidad de empleados por un determinado departamento.
+ -	Consulta_cli: para poder consultar a la Base de Datos sobre un determinado cliente ingresando el id del mismo.
+ -	Consulta_emp: de la misma forma que el cliente se consulta un empleado ingresando su id.
+ -	Consulta_nom: con este procedimiento, podemos consultar un empleado ingresando su nombre.
+ -	Insert1: este procedimiento nos permite insertar un nuevo producto.
+ -	Eliminar_producto: este procedimiento nos permite eliminar un producto ingresando su id.
+ -	Actualizar_producto: Este procedimiento nos permite actualizar el precio de un determinado producto.
+ -	Insert_cliente: este procedimiento nos permite ingresar un nuevo cliente.
+ -	Pr_login: este procedimiento nos verificara si es que el usuario y contraseña ingresados existen en la tabla “Administrador”, y de       acuerdo a ello nos retornara el valor de 1 o null.
 
  
